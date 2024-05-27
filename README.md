@@ -1,2 +1,9 @@
 # JavaScript-Notes
-Chai aur Notes
+
+
+## Using the Console
+Uses REPL
+
+Read-Evaluate-Print-Loop
+
+
